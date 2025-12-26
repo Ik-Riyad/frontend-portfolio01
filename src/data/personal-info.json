@@ -1,0 +1,232 @@
+{
+  "personal": {
+    "name": "Ibrahim Khan Riyadh",
+    "nickname": "Riyadh",
+    "title": "Frontend Developer",
+    "company": "Lowe's Companies, Inc.",
+    "location": "Dhaka, Bangladesh",
+    "email": "ik.riyad123@gmail.com",
+    "phone": "+880-1681-048811",
+    "tagline": "Frontend Developer | React, Next.js, Vue.js & Nuxt.js Enthusiast",
+    "bio": "I am a frontend web developer specializing in building modern, responsive, and user-friendly interfaces using React, Next.js, Vue.js, and Nuxt.js. I focus on clean UI design, performance, and great user experience using Tailwind CSS, DaisyUI, and modern frontend tools.",
+    "closingBio": "Always eager to collaborate on exciting frontend projects, explore new UI technologies, and craft beautiful digital experiences. Let’s connect and build impactful interfaces together!",
+    "story": [
+      "I am a frontend web developer with strong experience in building modern single-page and server-rendered applications using React, Next.js, Vue.js, and Nuxt.js.",
+      "I enjoy translating UI/UX designs into responsive, accessible, and high-performance interfaces using Tailwind CSS and DaisyUI.",
+      "My projects include a Historical Artifacts UI Platform, a Blood Donation Frontend System, and a Plant Care Tracker UI — all focused on clean design, smooth interactions, and usability.",
+      "I am passionate about frontend problem-solving, component-based architecture, and writing clean, maintainable UI code while continuously learning modern frontend trends."
+    ],
+    "profileImage": "/riyad-profile.jpg"
+  },
+  "stats": {
+    "projects": "5+",
+    "yearsExperience": "6-months+",
+    "technologiesMastered": "15+"
+  },
+  "social": {
+    "linkedin": {
+      "url": "https://www.linkedin.com/in/ibrahim-khan-riyadh/",
+      "username": "ibrahim-khan-riyadh"
+    },
+    "github": {
+      "url": "https://github.com/Ik-Riyad",
+      "username": "Ik-Riyad"
+    },
+    "medium": {
+      "url": "https://medium.com/@ik.riyad123",
+      "username": "@ik.riyad123"
+    },
+    "email": "ik.riyad123@gmail.com",
+    "phone": "+8801681048811",
+    "resume": "https://drive.google.com/file/d/1MERC_iwimQnGVlvN0OMOq1_YLsyxXedn/view?usp=sharing"
+  },
+  "skills": {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "experience": "1+ years",
+        "context": "Frontend, React, Node.js",
+        "category": "Programming Languages",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+      }
+    ],
+    "backend": [],
+    "frontend": [
+      {
+        "name": "React.js",
+        "experience": "1+ years",
+        "context": "MicroFrontends, SPAs",
+        "category": "Frontend",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+      },
+      {
+        "name": "Next.js",
+        "experience": "1+ year",
+        "context": "SSG/SSR applications",
+        "category": "Frontend",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+      },
+      {
+        "name": "Vue.js",
+        "experience": "Learning & Practicing",
+        "context": "Component-based UI",
+        "category": "Frontend",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+      },
+      {
+        "name": "Nuxt.js",
+        "experience": "Learning",
+        "context": "Vue SSR framework",
+        "category": "Frontend",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg"
+      },
+      {
+        "name": "Tailwind CSS",
+        "experience": "1+ years",
+        "context": "Utility-first CSS",
+        "category": "Frontend",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+      },
+      {
+        "name": "HTML/CSS",
+        "experience": "2+ years",
+        "context": "Responsive design",
+        "category": "Frontend",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+      }
+    ],
+    "cloud_databases": []
+  },
+  "experience": [
+    {
+      "id": 1,
+      "title": "Team Lead & Deputy Project Coordinator",
+      "company": "AcmeAI",
+      "location": "Dhaka, Bangladesh",
+      "logo": "/professional-experience-logos/acmeai.png",
+      "duration": "3+ years",
+      "description": "Lead a team of developers and designers to successfully deliver multiple projects on time. Coordinated cross-functional teams to ensure smooth project execution and communication. Managed project timelines, resources, and client expectations effectively.",
+      "achievements": [
+        "Lead multiple projects from planning to delivery ensuring timely completion",
+        "Coordinated cross-functional teams for smooth communication and workflow",
+        "Implemented best practices that improved team productivity and project quality",
+        "Gained strong skills in project management, team leadership, and problem-solving",
+        "Mentored team members and enhanced overall efficiency using collaborative tools"
+      ],
+      "technologies": [
+        "Google Docs",
+        "Google Sheets",
+        "Annotation Tools"
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Science (BSc), Computer Science and Engineering",
+    "institution": "Central University of Science & Technology",
+    "duration": "Feb 2026 - Ongoing",
+    "cgpa": "Ongoing",
+    "location": "Dhaka, Bangladesh"
+  },
+  "projects": [
+    {
+      "id": 7,
+      "title": "🩸Blood Donation",
+      "subtitle": "Frontend Interface for Blood Donation Platform",
+      "description": "A responsive frontend interface for searching donors and managing donation-related views.",
+      "technologies": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "Tailwind CSS",
+        "DaisyUI"
+      ],
+      "github": "https://github.com/Ik-Riyad/blood-donation-client",
+      "live": "https://tourmaline-unicorn-6f9468.netlify.app/",
+      "featured": false,
+      "categories": [
+        "MERN stack development",
+        "Donation Tech"
+      ],
+      "image": "https://i.postimg.cc/W3dz2LG3/blood-donation.png",
+      "status": "Completed",
+      "priority": 9
+    },
+    {
+      "id": 8,
+      "title": "🏺 Historical Artifacts UI",
+      "subtitle": "Frontend Artifact Exploration Platform",
+      "description": "A responsive UI for exploring and showcasing historical artifacts with modern layouts.",
+      "technologies": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "Tailwind CSS",
+        "DaisyUI"
+      ],
+      "github": "https://github.com/Ik-Riyad/historical-artifacts-client",
+      "live": "https://candid-pika-b371d8.netlify.app/",
+      "featured": false,
+      "categories": [
+        "Tracker App",
+        "Historical"
+      ],
+      "image": "https://i.postimg.cc/NjWB19mg/historical-artifacts.png",
+      "status": "Completed",
+      "priority": 7
+    },
+    {
+      "id": 9,
+      "title": "🌿 Plant Care UI",
+      "subtitle": "Plant Care Tracker Frontend",
+      "description": "A clean and mobile-friendly UI for tracking plant care activities.",
+      "technologies": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "Tailwind CSS",
+        "DaisyUI"
+      ],
+      "github": "https://github.com/Ik-Riyad/mango_client",
+      "live": "https://unique-donut-b731f9.netlify.app/",
+      "featured": false,
+      "categories": [
+        "Plant Care",
+        "Tracker App"
+      ],
+      "image": "https://i.postimg.cc/gkbYX6ym/plants.png",
+      "status": "Completed",
+      "priority": 4
+    }
+  ],
+  "seo": {
+    "title": "Ibrahim Khan Riyadh - Full-Stack Developer (React/Next.js, Node.js, MongoDB)",
+    "description": "Full-Stack Developer with expertise in React.js, Next.js, Node.js, MongoDB, Firebase, Tailwind CSS, DaisyUI, Axios, and Stripe. Experienced in building responsive, scalable web applications and implementing efficient frontend-backend workflows.",
+    "keywords": [
+      "Ibrahim Khan Riyadh",
+      "Full-Stack Developer",
+      "React.js",
+      "Next.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Firebase",
+      "Tailwind CSS",
+      "DaisyUI",
+      "Axios",
+      "Stripe",
+      "Web Development",
+      "Frontend",
+      "Backend",
+      "Responsive Design",
+      "Scalable Applications",
+      "JavaScript",
+      "MERN Stack"
+    ],
+    "ogImage": "/riyad-profile.jpg",
+    "googleSiteVerification": "oNrOrBYC8Dz7PNuaUMPlYXCVWaPbmLofyH5Q9EoXg50",
+    "icon": {
+      "icon": "/web-app-manifest.png",
+      "appleTouchIcon": "/apple-touch-icon.png"
+    }
+  }
+}

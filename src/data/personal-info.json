@@ -145,7 +145,6 @@
       "live": "https://tourmaline-unicorn-6f9468.netlify.app/",
       "featured": false,
       "categories": [
-        "MERN stack development",
         "Donation Tech"
       ],
       "image": "https://i.postimg.cc/W3dz2LG3/blood-donation.png",
@@ -222,8 +221,7 @@
       "Backend",
       "Responsive Design",
       "Scalable Applications",
-      "JavaScript",
-      "MERN Stack"
+      "JavaScript"
     ],
     "ogImage": "/riyad-profile.jpg",
     "googleSiteVerification": "oNrOrBYC8Dz7PNuaUMPlYXCVWaPbmLofyH5Q9EoXg50",

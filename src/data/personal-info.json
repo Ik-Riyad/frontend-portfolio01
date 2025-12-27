@@ -53,6 +53,20 @@
     "backend": [],
     "frontend": [
       {
+        "name": "Vue.js",
+        "experience": "1+ years",
+        "context": "Component-based UI",
+        "category": "Frontend",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+      },
+      {
+        "name": "Nuxt.js",
+        "experience": "1+ years",
+        "context": "Vue SSR framework",
+        "category": "Frontend",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg"
+      },
+      {
         "name": "React.js",
         "experience": "1+ years",
         "context": "MicroFrontends, SPAs",
@@ -65,20 +79,6 @@
         "context": "SSG/SSR applications",
         "category": "Frontend",
         "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-      },
-      {
-        "name": "Vue.js",
-        "experience": "Learning & Practicing",
-        "context": "Component-based UI",
-        "category": "Frontend",
-        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
-      },
-      {
-        "name": "Nuxt.js",
-        "experience": "Learning",
-        "context": "Vue SSR framework",
-        "category": "Frontend",
-        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg"
       },
       {
         "name": "Tailwind CSS",

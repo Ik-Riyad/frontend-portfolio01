@@ -26,21 +26,21 @@ const Skills: React.FC = () => {
       icon: Code2,
       skills: personalInfo.skills.languages
     },
-    {
-      title: 'Backend Development',
-      icon: Server,
-      skills: personalInfo.skills.backend
-    },
+    // {
+    //   title: 'Backend Development',
+    //   icon: Server,
+    //   skills: personalInfo.skills.backend
+    // },
     {
       title: 'Frontend Development',
       icon: Monitor,
       skills: personalInfo.skills.frontend
     },
-    {
-      title: 'Cloud & Databases',
-      icon: Cloud,
-      skills: personalInfo.skills.cloud_databases
-    }
+    // {
+    //   title: 'Cloud & Databases',
+    //   icon: Cloud,
+    //   skills: personalInfo.skills.cloud_databases
+    // }
   ];
 
   return (

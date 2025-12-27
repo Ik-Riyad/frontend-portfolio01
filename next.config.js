@@ -17,12 +17,15 @@ const nextConfig = {
   experimental: {
     optimizePackageImports: ['lucide-react'],
   },
+  // Force Turbopack safe for Next.js 16
+  turbopack: {},
+
   // Fix for ChunkLoadError during development
   webpack: (config, { dev, isServer }) => {
     if (dev && !isServer) {
       // Increase chunk loading timeout for development
       config.output.chunkLoadTimeout = 120000; // 2 minutes
-      
+
       // Optimize chunk splitting for development
       config.optimization = {
         ...config.optimization,
@@ -48,6 +51,7 @@ const nextConfig = {
     }
     return config;
   },
+
   // Development server configuration
   ...(process.env.NODE_ENV === 'development' && {
     devIndicators: {

@@ -133,7 +133,6 @@
       "title": "🩸Blood Donation",
       "subtitle": "Frontend Interface for Blood Donation Platform",
       "description": "A responsive frontend interface for searching donors and managing donation-related views.",
-      "longDescription": "A responsive web application to search blood donors, manage donations securely, and facilitate blood donation efforts efficiently.",
       "technologies": [
         "React",
         "JavaScript",
@@ -157,7 +156,6 @@
       "title": "🏺 Historical Artifacts UI",
       "subtitle": "Frontend Artifact Exploration Platform",
       "description": "A responsive UI for exploring and showcasing historical artifacts with modern layouts.",
-      "longDescription": "A responsive full-stack web application that allows users to explore, share, and submit historical artifacts. Users can like their favorite artifacts, which are saved in their profile for easy access. The platform supports user authentication and enables seamless artifact sharing.",
       "technologies": [
         "React",
         "JavaScript",
@@ -181,7 +179,6 @@
       "title": "🌿 Plant Care UI",
       "subtitle": "Plant Care Tracker Frontend",
       "description": "A clean and mobile-friendly UI for tracking plant care activities.",
-      "longDescription": "A beautifully themed, full-stack, mobile-responsive web application designed to help plant lovers easily monitor and manage the care of their indoor and outdoor plants. Built with love for green thumbs, this app tracks everything from watering to plant health — all in one place.",
       "technologies": [
         "React",
         "JavaScript",

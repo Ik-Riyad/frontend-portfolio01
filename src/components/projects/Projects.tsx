@@ -46,7 +46,7 @@ const Projects: React.FC = () => {
             Featured <span className="gradient-text">Projects</span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Building modern full-stack web applications with React, Next.js, and scalable backend solutions.
+            Building modern frontend web applications with Tailwind and React.
           </p>
         </div>
 
